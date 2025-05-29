@@ -3,7 +3,7 @@ Basic Java programs covering concepts like Inheritance, Polymorphism, Exception 
 
 TABLE OF CONTENTS
 
-| Experiment No. | Experiment Name                           |
+| Sl No.         | Name                                      |
 |----------------|-------------------------------------------|
 | 1              | String Palindrome                         |
 | 2              | Character Frequency in a String           |
